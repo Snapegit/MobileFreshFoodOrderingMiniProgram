@@ -46,6 +46,18 @@ uni-app：是一个使用 Vue.js 开发所有前端应用的框架，开发者�
 
 ---
 
+## 📥 项目更新下载地址
+
+本项目会持续更新，更新后的完整包优先同步到这里，建议保存备用：
+
+下载地址：[https://pan.xunlei.com/s/VP1paObtYL92Lk1gOprmIj-wA1?pwd=xn5y#](https://pan.xunlei.com/s/VP1paObtYL92Lk1gOprmIj-wA1?pwd=xn5y#)
+
+提取码：`xn5y`
+
+> 链接失效或需要最新版本：通过微信公众号 **【斯内普的数字坩埚】** 获取。
+
+---
+
 ## 📲 获取更多帮助和服务
 
 ### 🔍 联系我们
